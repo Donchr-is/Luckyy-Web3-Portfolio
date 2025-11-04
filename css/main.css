@@ -1621,6 +1621,27 @@ input::-moz-focus-inner {
   left: 40px;
 }
 
+
+.j1{
+  color: white;
+  font-size: 48px;
+  position: relative;
+  /* max-width: 100%; */
+  /* height: auto; */
+}
+
+/* .header-logo {
+  width: clamp(100px, 20vw, 200px);
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  -webkit-transform: translate3d(0, -50%, 0);
+  transform: translate3d(0, -50%, 0);
+  position: absolute;
+  top: 50%;
+  left: 40px;
+} */
+
 .header-logo a {
   display: block;
   margin: 0;
@@ -1632,6 +1653,7 @@ input::-moz-focus-inner {
 
 .header-logo img {
   /* width: 132px; */
+  /* height: 36px; */
   height: 250px;
   margin: 0;
 }
@@ -3272,6 +3294,10 @@ input::-moz-focus-inner {
  * # contact
  *
  * ------------------------------------------------------------------- */
+.j2{
+  color: #cf1767;
+}
+
 .s-contact {
   padding-top: 18.4rem;
   padding-bottom: 6.4rem;
@@ -3296,6 +3322,7 @@ input::-moz-focus-inner {
   font-weight: 400;
   line-height: 1;
   margin: 5.6rem 0 8rem;
+  color:#cf1767 ;
 }
 
 .contact-infos {
